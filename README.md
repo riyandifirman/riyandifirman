@@ -68,7 +68,7 @@ Talent ain't enough. Fortis fortuna adiuvat
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyandifirman&layout=compact)](https://github.com/riyandifirman/github-readme-stats)
 
 ## My Github Stats
 [![Riyandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyandifirman)](https://github.com/riyandifirman/github-readme-stats)
