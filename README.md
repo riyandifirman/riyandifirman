@@ -17,6 +17,9 @@ Talent ain't enough. Fortis fortuna adiuvat
 - 💪 Have great passion in programming especially in mobile programming
 - 💬 Ask me about anything, even that's about food. I am happy to help
 
+## Portfolio
+[Visit here](https://www.riyandifirman.dev/)
+
 ## Feel free to touch me in <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/riyandifirman/" target="blank" >
