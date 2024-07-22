@@ -4,7 +4,7 @@
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 
-## Hi there, I'm [Riyandi](https://github.com/riyandifirman)👋. Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=riyandifirman.riyandifirman)
+## Hi there, I'm [Riyandi](https://github.com/riyandifirman)👋. Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=riyandifirman.riyandifirman) <img src="https://komarev.com/ghpvc/?username=riyandifirman&label=Profile%20views&color=0e75b6&style=flat" alt="bagussubagja" />
 ```
 Talent ain't enough. Fortis fortuna adiuvat
 ```
