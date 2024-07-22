@@ -10,15 +10,15 @@ Talent ain't enough. Fortis fortuna adiuvat
 ```
 
 ## About Me
-- 🎓 I'm currently studying Software Engineering at Universitas Pendidikan Indonesia
-- ⚒️ Distinction graduate from Bangkit Academy 2023 By Google, GoTo, and Traveloka Mobile Development Learning Path
+- 🎓 Graduated from bachelor of Software Engineering at Universitas Pendidikan Indonesia in 2024
+- ⚒️ Distinction graduate from Bangkit Academy 2023 By Google, GoTo, and Traveloka in Mobile Development Learning Path
 - 🚀 Still learning about Mobile App Development using Kotlin, UI/UX and Frontend Development
 - 🔥 Have a set of particular skills in hardware, software and computer networking
 - 💪 Have great passion in programming especially in mobile programming
 - 💬 Ask me about anything, even that's about food. I am happy to help
 
 ## Portfolio
-[Visit here](https://www.riyandifirman.dev/)
+[Feel free to visit](https://www.riyandifirman.dev/)
 
 ## Feel free to touch me in <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
@@ -64,7 +64,6 @@ Talent ain't enough. Fortis fortuna adiuvat
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/antdesign-%23F24E1E.svg?style=for-the-badge&logo=antdesign&logoColor=white)
 
