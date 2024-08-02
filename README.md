@@ -11,7 +11,7 @@ Talent ain't enough. Fortis fortuna adiuvat
 
 ## About Me
 - 🎓 Graduated from bachelor of Software Engineering at Universitas Pendidikan Indonesia in 2024
-- ⚒️ Distinction graduate from Bangkit Academy 2023 By Google, GoTo, and Traveloka in Mobile Development Learning Path
+- ⚒️ Distinction graduate from Bangkit Academy 2023 By Google, GoTo, and Traveloka in Mobile Development Learning Path, achieving recognition as one of the top 10% of graduates.
 - 🚀 Still learning about Mobile App Development using Kotlin, UI/UX and Frontend Development
 - 🔥 Have a set of particular skills in hardware, software and computer networking
 - 💪 Have great passion in programming especially in mobile programming
